@@ -1,0 +1,5 @@
+PHP Download with Browser-OS Detection and C-Clamp Template
+
+In Lesson 10's Project 2, you created an Acme, Inc. page in PHP which displayed a "Download Now!" link if a user met certain environmental criteria. Now alter this program to include the Acme C-Clamp template. In addition, make the "Download Now!" link live, so that users who click on it download a file of your choice.
+
+
